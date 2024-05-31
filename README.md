@@ -19,9 +19,9 @@ To get started with this project, follow these steps:
    ```
    pip install -r requirements.txt
    ```
-3. Run the analysis scripts:
+3. Run the analysis notebook:
    ```
-   python analysis.py
+   jupyter notebook
    ```
 
 ## Data 📊
