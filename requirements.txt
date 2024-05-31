@@ -8,3 +8,4 @@ scikit-optimize==0.9.0
 jupyter>=1.0.0
 ipykernel>=5.3.4
 openpyxl>=3.0.5
+shap==0.43.0
