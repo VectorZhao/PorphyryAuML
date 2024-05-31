@@ -25,8 +25,15 @@ To get started with this project, follow these steps:
    ```
 
 ## Data 📊
-The dataset used in this project includes whole-rock geochemical data from various porphyry deposits within the Central Asian Orogenic Belt. Due to data privacy, the exact dataset used for analysis is not provided in this repository.
 
+### DATA.xlsx
+The `DATA.xlsx` file contains crucial geochemical data used in our analysis, organized across three sheets:
+
+- **group1**: Represents the Cu-Au (Copper-Gold) porphyry deposits. This sheet contains all relevant geochemical markers and measurements specific to this group.
+- **group2**: Corresponds to Cu(-Au±Mo) (Copper with/without Gold and Molybdenum) porphyry deposits. It includes a detailed set of data focusing on the variations and characteristics of these mixed element deposits.
+- **group3**: Contains data related to Cu-Mo (Copper-Molybdenum) porphyry deposits, focusing on the distinct geochemical profiles that typify these deposits.
+
+Each sheet is named to reflect the group it represents and is vital for our machine learning analysis to classify and predict porphyry deposit types based on their geochemical properties.
 
 ## License 📜
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
